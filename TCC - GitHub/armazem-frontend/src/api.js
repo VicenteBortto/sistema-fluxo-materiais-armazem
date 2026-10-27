@@ -1,5 +1,5 @@
 // Endereço do backend. Se mudar a PORT no .env do backend, mude aqui também.
-const BASE = 'http://localhost:3000';
+const BASE = https:/sistema-fluxo-materiais-armazem.onrender.com;
 
 // Guarda o token e os dados do usuário no navegador (localStorage)
 export const sessao = {
