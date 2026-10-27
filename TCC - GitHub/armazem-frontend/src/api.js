@@ -1,5 +1,5 @@
 // Endereço do backend. Se mudar a PORT no .env do backend, mude aqui também.
-const BASE = BASE = location.port === '3000';
+const BASE = 'http://localhost:3000';
 
 // Guarda o token e os dados do usuário no navegador (localStorage)
 export const sessao = {
